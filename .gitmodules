@@ -1,7 +1,7 @@
 [submodule "littlefs-lib"]
 	path = littlefs-lib
 	url = https://github.com/lurk101/littlefs-lib.git
-#[submodule "stdinit-lib"]
-#	path = stdinit-lib
+[submodule "stdinit-lib"]
+	path = stdinit-lib
 #	url = https://github.com/lurk101/stdinit-lib.git
-#	url = git git@github.com:petermilne/littlefs-lib.git
+	url = git git@github.com:petermilne/littlefs-lib.git
